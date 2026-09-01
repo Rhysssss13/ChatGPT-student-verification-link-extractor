@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT学生认证提链 作者Rhys&5.6 Sol",
+  "name": "ChatGPT学生认证提链",
   "version": "0.1.0",
   "description": "提取当前页面、iframe 和 ChatGPT 学生验证页面中的链接。",
   "action": {
