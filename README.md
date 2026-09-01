@@ -1,4 +1,4 @@
-# ChatGPT学生认证提链 作者Rhys&5.6 Sol
+# ChatGPT学生认证提链 
 
 一个轻量的 Chrome 扩展，用于从当前页面快速提取 ChatGPT 学生认证流程中的动态链接。
 
