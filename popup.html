@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChatGPT 链接提取器</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main>
+    <header>
+      <div class="eyebrow">当前页面工具</div>
+      <h1>链接提取器</h1>
+      <p id="page-title">正在读取当前页面…</p>
+    </header>
+    <section id="result" class="result" aria-live="polite"></section>
+    <button id="refresh" class="secondary" type="button">重新提取</button>
+    <p class="note">仅读取当前页面中的链接，不上传或保存内容。</p>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+:root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+* { box-sizing: border-box; }
+body { width: 390px; margin: 0; color: #1f2328; background: #fff; }
+main { padding: 18px; }
+header { border-bottom: 1px solid #e5e7eb; padding-bottom: 14px; }
+.eyebrow { color: #6b7280; font-size: 12px; margin-bottom: 5px; }
+h1 { font-size: 21px; margin: 0 0 6px; }
+header p { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #6b7280; font-size: 12px; margin: 0; }
+.result { min-height: 96px; padding: 14px 0 8px; }
+.empty { color: #6b7280; font-size: 13px; line-height: 1.6; }
+.item { border: 1px solid #e5e7eb; border-radius: 10px; padding: 10px; margin-bottom: 9px; }
+.item-head { display: flex; justify-content: space-between; gap: 8px; align-items: center; margin-bottom: 7px; }
+.label { font-size: 12px; font-weight: 650; }
+.url { color: #4b5563; font-size: 11px; line-height: 1.45; overflow-wrap: anywhere; max-height: 48px; overflow: hidden; }
+button { width: 100%; border: 0; border-radius: 8px; padding: 9px 12px; cursor: pointer; font-size: 13px; }
+.copy { color: #fff; background: #111827; width: auto; padding: 5px 9px; font-size: 11px; }
+.copy.done { background: #198754; }
+.secondary { color: #374151; background: #f3f4f6; }
+.note { color: #9ca3af; font-size: 11px; line-height: 1.5; margin: 12px 0 0; }
+.error { color: #b42318; font-size: 13px; line-height: 1.5; }
