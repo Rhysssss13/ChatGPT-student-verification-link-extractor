@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ChatGPT学生认证提链",
   "version": "0.1.0",
-  "description": "提取当前页面、iframe 和 ChatGPT 学生验证页面中的链接。",
+  "description": "提取当前页面和 iframe 中的 ChatGPT 学生认证链接。项目仓库：https://github.com/Rhysssss13/ChatGPT-student-verification-link-extractor",
   "action": {
     "default_title": "提取 ChatGPT 链接",
     "default_popup": "popup.html"
